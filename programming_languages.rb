@@ -5,3 +5,5 @@ def reformat_languages(languages)
 binding.pry
 
 end
+
+reformat_languages(languages)
