@@ -5,6 +5,9 @@ def reformat_languages(languages)
   #binding.pry
   languages.each do |style, description|
     binding.pry
+    description.each do |lang, type|
+      binding.pry
+    end
   end
 
 end
